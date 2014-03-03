@@ -6,6 +6,7 @@ public class TestMain {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hello,GitHub");
+		System.out.println("http://pcottle.github.io/learnGitBranching/?demo");
 	}
 
 }
